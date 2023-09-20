@@ -1,3 +1,5 @@
+view the page: https://netflixclone-kappa-gules.vercel.app/list/add/129600
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
