@@ -62,7 +62,7 @@ export default () => {
       </section>
 
       <footer>
-        Feito acompanhando a live da B7Web.
+        Kaique Winicios SOuza.
         Direitos de imagem para Netflix.<br />
         dados pegos do site Themoviedb.org.
       </footer>
